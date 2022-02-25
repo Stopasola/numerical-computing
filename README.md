@@ -1,2 +1,1 @@
-# numerical-computing
-# numerical-computing
+# Numerical Computing
